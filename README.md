@@ -1,7 +1,8 @@
 # Automating-Decision-making
 
 This is a project to choose a random Anime for you to watch
-##modules used
+## modules used 
+
 You can see the modules used in [requirement.txt](https://github.com/Enderboy2/Automating-Decision-making/blob/main/requirements.txt)
 
 ## Installation
