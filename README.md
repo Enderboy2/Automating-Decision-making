@@ -7,7 +7,7 @@ You can see the modules used in [requirement.txt](https://github.com/Enderboy2/A
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required modules.
 
 ```bash
 pip install -r requirements.txt
