@@ -12,13 +12,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install -r requirements.txt
 ```
-## Usage
-
-To run the program run : 
+##usage
+To use the program run the following command
 ```bash
 python main.py
 ```
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
